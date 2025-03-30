@@ -1,0 +1,39 @@
+{
+  "nome": "Desenvolvimento",
+  "descricao": "Pacote essencial para cria\u00e7\u00e3o visual com Elementor, JetEngine e MetaBox.",
+  "categoria": "Interface",
+  "slug": "desenvolvimento",
+  "plugins": [
+    {
+      "slug": "elementor",
+      "origem": "wp-repo"
+    },
+    {
+      "slug": "elementor-pro.zip",
+      "origem": "local"
+    },
+    {
+      "slug": "jetengine.zip",
+      "origem": "local"
+    },
+    {
+      "slug": "jetsmartfilters.zip",
+      "origem": "local"
+    },
+    {
+      "slug": "jet-form-builder",
+      "origem": "wp-repo"
+    },
+    {
+      "slug": "metabox-pro.zip",
+      "origem": "local"
+    }
+  ],
+  "dependencias": [],
+  "tags": [
+    "elementor",
+    "jetengine",
+    "metabox",
+    "dev"
+  ]
+}
